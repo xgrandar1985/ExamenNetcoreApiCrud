@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xavier\\source\\repos\\Examen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4DA3E0-A503-4845-ABF8-EF6661BE8733}|Examen.csproj|c:\\users\\xavier\\source\\repos\\examen\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF4DA3E0-A503-4845-ABF8-EF6661BE8733}|Examen.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4DA3E0-A503-4845-ABF8-EF6661BE8733}|Examen.csproj|c:\\users\\xavier\\source\\repos\\examen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4DA3E0-A503-4845-ABF8-EF6661BE8733}|Examen.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4DA3E0-A503-4845-ABF8-EF6661BE8733}|Examen.csproj|c:\\users\\xavier\\source\\repos\\examen\\core\\application\\dto\\accesoriodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4DA3E0-A503-4845-ABF8-EF6661BE8733}|Examen.csproj|solutionrelative:core\\application\\dto\\accesoriodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4DA3E0-A503-4845-ABF8-EF6661BE8733}|Examen.csproj|c:\\users\\xavier\\source\\repos\\examen\\controllers\\chofercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4DA3E0-A503-4845-ABF8-EF6661BE8733}|Examen.csproj|solutionrelative:controllers\\chofercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4DA3E0-A503-4845-ABF8-EF6661BE8733}|Examen.csproj|c:\\users\\xavier\\source\\repos\\examen\\core\\application\\interfaces\\ichoferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4DA3E0-A503-4845-ABF8-EF6661BE8733}|Examen.csproj|solutionrelative:core\\application\\interfaces\\ichoferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4DA3E0-A503-4845-ABF8-EF6661BE8733}|Examen.csproj|c:\\users\\xavier\\source\\repos\\examen\\infrastructure\\persistence\\choferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4DA3E0-A503-4845-ABF8-EF6661BE8733}|Examen.csproj|solutionrelative:infrastructure\\persistence\\choferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4DA3E0-A503-4845-ABF8-EF6661BE8733}|Examen.csproj|c:\\users\\xavier\\source\\repos\\examen\\core\\application\\dto\\taxidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4DA3E0-A503-4845-ABF8-EF6661BE8733}|Examen.csproj|solutionrelative:core\\application\\dto\\taxidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\xavier\\source\\repos\\Examen\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\xavier\\source\\repos\\Examen\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T20:24:06.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xavier\\source\\repos\\Examen\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\xavier\\source\\repos\\Examen\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:24:02.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccesorioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\xavier\\source\\repos\\Examen\\Core\\Application\\Dto\\AccesorioDTO.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Dto\\AccesorioDTO.cs",
+              "ToolTip": "C:\\Users\\xavier\\source\\repos\\Examen\\Core\\Application\\Dto\\AccesorioDTO.cs",
+              "RelativeToolTip": "Core\\Application\\Dto\\AccesorioDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:13:40.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaxiDTO.cs",
+              "DocumentMoniker": "C:\\Users\\xavier\\source\\repos\\Examen\\Core\\Application\\Dto\\TaxiDTO.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Dto\\TaxiDTO.cs",
+              "ToolTip": "C:\\Users\\xavier\\source\\repos\\Examen\\Core\\Application\\Dto\\TaxiDTO.cs",
+              "RelativeToolTip": "Core\\Application\\Dto\\TaxiDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:11:06.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChoferController.cs",
+              "DocumentMoniker": "C:\\Users\\xavier\\source\\repos\\Examen\\Controllers\\ChoferController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChoferController.cs",
+              "ToolTip": "C:\\Users\\xavier\\source\\repos\\Examen\\Controllers\\ChoferController.cs",
+              "RelativeToolTip": "Controllers\\ChoferController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:58:54.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IChoferRepository.cs",
+              "DocumentMoniker": "C:\\Users\\xavier\\source\\repos\\Examen\\Core\\Application\\Interfaces\\IChoferRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Interfaces\\IChoferRepository.cs",
+              "ToolTip": "C:\\Users\\xavier\\source\\repos\\Examen\\Core\\Application\\Interfaces\\IChoferRepository.cs",
+              "RelativeToolTip": "Core\\Application\\Interfaces\\IChoferRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:50:49.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChoferRepository.cs",
+              "DocumentMoniker": "C:\\Users\\xavier\\source\\repos\\Examen\\Infrastructure\\Persistence\\ChoferRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ChoferRepository.cs",
+              "ToolTip": "C:\\Users\\xavier\\source\\repos\\Examen\\Infrastructure\\Persistence\\ChoferRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\ChoferRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAcwEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:53:18.718Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
